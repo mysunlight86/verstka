@@ -18,3 +18,9 @@ blockquote {
   margin: 0;
   padding: 0;
 }
+
+.content-section {
+  box-sizing: border-box;
+  width: 360px;
+  margin: auto;
+}
