@@ -23,7 +23,6 @@ blockquote {
   box-sizing: border-box;
   width: 100%;
   max-width: 360px;
-  min-height: 100px;
   margin: auto;
 }
 
@@ -35,4 +34,16 @@ blockquote {
 .content-section_theme_bright {
   color: #141414;
   background-color: #fff;
+}
+
+.header {
+  padding: 24px 20px;
+}
+
+.article {
+  padding: 16px 20px 136px;
+}
+
+.footer {
+  padding: 20px;
 }
