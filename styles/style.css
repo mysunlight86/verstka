@@ -40,6 +40,14 @@ blockquote {
   padding: 24px 20px;
 }
 
+.header__logo {
+  display: block;
+  width: 79px;
+}
+.header__logo-image {
+  width: 100%;
+}
+
 .article {
   padding: 16px 20px 136px;
 }
