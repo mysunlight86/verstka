@@ -113,3 +113,8 @@ blockquote {
 .footer {
   padding: 20px;
 }
+
+.footer__copy {
+  font-size: 14px;
+  line-height: 1.25;
+}
