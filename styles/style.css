@@ -59,11 +59,18 @@ blockquote {
 .article__title {
   width: 100%;
   margin: 8px 0 16px;
-  color: #141414;
   font-family: 'EB Garamond', serif;
   font-weight: 600;
   font-size: 30px;
   line-height: auto;
+}
+
+.article__lead {
+  width: 100%;
+  margin-bottom: 20px;
+  color: #6c6c6c;
+  font-size: 16px;
+  line-height: 1.35;
 }
 
 .footer {
