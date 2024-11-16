@@ -78,15 +78,22 @@ blockquote {
 }
 
 .article__content {
-  margin: 17px 0 136px;
-}
-
-.content-text {
   display: flex;
   flex-direction: column;
   gap: 20px;
+  margin-top: 17px;
+}
+
+.content-text {
   font-size: 16px;
   line-height: 1.35;
+}
+
+.content-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding-left: 16px;
 }
 
 .footer {
