@@ -52,6 +52,20 @@ blockquote {
   padding: 16px 20px 136px;
 }
 
+.article__points-image {
+  width: 32px;
+}
+
+.article__title {
+  width: 100%;
+  margin: 8px 0 16px;
+  color: #141414;
+  font-family: 'EB Garamond', serif;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: auto;
+}
+
 .footer {
   padding: 20px;
 }
