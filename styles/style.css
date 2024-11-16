@@ -73,6 +73,15 @@ blockquote {
   line-height: 1.35;
 }
 
+.article-link {
+  text-decoration: none;
+}
+
+.article__lead-link {
+  border-bottom: 2px solid #6c6c6c;
+  color: #6c6c6c;
+}
+
 .article__main-image {
   width: 100%;
 }
@@ -87,6 +96,11 @@ blockquote {
 .content-text {
   font-size: 16px;
   line-height: 1.35;
+}
+
+.content-link {
+  border-bottom: 2px solid #141414;
+  color: #141414;
 }
 
 .content-list {
