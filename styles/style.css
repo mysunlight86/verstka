@@ -73,6 +73,10 @@ blockquote {
   line-height: 1.35;
 }
 
+.article__main-image {
+  width: 100%;
+}
+
 .footer {
   padding: 20px;
 }
